@@ -6,10 +6,16 @@ AI-generated portfolio video presenting my profile, skills, and career direction
 
 ---
 
+## 🎥 Video
+
+[▶️ Watch AI Portfolio Video](./video/bruno_ai_intro.mp4)
+
+---
+
 ## 🎬 Overview
 
 This project is a short AI-generated video designed to simulate a professional introduction.  
-The goal was to create a realistic, engaging presentation using modern AI tools and workflows.
+The goal was to create a realistic and engaging presentation using modern AI tools.
 
 ---
 
@@ -33,21 +39,11 @@ It is designed to look like a natural interview-style introduction, with subtle 
 
 ---
 
-## 🔧 Workflow
-
-1. Prepared script (introduction + goals)
-2. Generated AI video segments
-3. Adjusted facial expressions and motion
-4. Combined clips into final version
-5. Exported and optimized video
-
----
-
 ## 🎯 Purpose
 
 The goal of this project was to:
 - explore AI content generation
-- understand real-world AI workflows
+- understand practical AI workflows
 - build a unique portfolio element
 - stand out from typical developer profiles
 
@@ -57,19 +53,23 @@ The goal of this project was to:
 
 ```text
 ai-portfolio-video/
-└── video/
-    └── bruno_ai_intro.mp4
+│
+├── video/
+│   └── bruno_ai_intro.mp4
+│
+└── README.md
 ```
+
 ---
 
 ## 🧠 What I Learned
 
-This project helped me understand how AI tools can be combined into a real workflow.  
-It also showed how prompt design and iteration affect final results.
+This project helped me understand how AI tools can be used in real-world scenarios.  
+It also showed how iteration and prompt design affect the final result.
 
 ---
 
 ## ⭐ Final Thoughts
 
 This project represents my interest in AI beyond theory —  
-focusing on practical usage, workflows, and real-world applications.
+focusing on practical usage and real-world applications.
