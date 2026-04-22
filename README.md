@@ -59,7 +59,6 @@ The goal of this project was to:
 ai-portfolio-video/
 └── video/
     └── bruno_ai_intro.mp4
-
 ```
 ---
 
