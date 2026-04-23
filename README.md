@@ -8,7 +8,7 @@ AI-generated portfolio video presenting my profile, skills, and career direction
 
 ## 🎥 Video
 
-[▶️ Watch AI Portfolio Video](./video/bruno_ai_intro.mp4)
+[▶️ Watch AI Portfolio Video](https://bruno-krysiak.netlify.app/#video)
 
 ---
 
